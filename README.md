@@ -1,4 +1,4 @@
-# Enterprise Networking Portfolio
+# enterprise-networking Portfolio
 
 This repository documents my practical experience and technical development in enterprise network design, VLAN segmentation, routing, switching, wireless infrastructure, ISP connectivity, monitoring and troubleshooting.
 
